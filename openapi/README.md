@@ -21,7 +21,7 @@ Then:
 ```
 dredd <spec-file-location> <api-endpoint-url> -f hooks.js
 ```
-
+a
 Success output:
 ```
 info: Beginning Dredd testing...
