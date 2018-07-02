@@ -2,7 +2,7 @@
 We have included a set of dashboards for Grafana in this demo application.
 Most of the source of these dashboards look exactly the same. For the sake of
 keeping our code DRY, we have decided to generate our dashboards using [grafanalib](https://github.com/weaveworks/grafanalib).
-
+a
 # Requirements
 | what   | version   |
 | ------ | --------- |
